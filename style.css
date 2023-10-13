@@ -77,3 +77,31 @@ a {
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
+
+.mid-container{
+    text-align: center;
+}
+
+.mid-title{
+    padding: 8px;
+    margin-bottom: 24px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.info-cards{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    
+}
+
+.pet-container{
+    max-width: 200px;
+}
+.pets{
+width: 200px;
+height: 200px;   
+border-radius: 20%;
+}
+
